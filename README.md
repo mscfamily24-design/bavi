@@ -1,1 +1,1 @@
-Static
+{"fruit","Apple","color","red"}
